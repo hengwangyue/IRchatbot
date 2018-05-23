@@ -1,5 +1,9 @@
 # IRchatbot
-实验环境：Python3 tensorflow 1.3
+
+实验环境：
+Python3 
+tensorflow 1.3
+
 检索式聊天机器人：
 输入：一段上下文和一个可能的候选回复
 输出：这个候选回复的打分
